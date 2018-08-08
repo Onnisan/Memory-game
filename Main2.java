@@ -146,6 +146,15 @@ public class Main extends Application implements EventHandler<ActionEvent> {
 			b6.setText("0");
 			b7.setText("0");
 			b8.setText("0");
+			b9.setText("0");
+			b10.setText("0");
+			b11.setText("0");
+			b12.setText("0");
+			b13.setText("0");
+			b14.setText("0");
+			b15.setText("0");
+			b16.setText("0");
+			
 			Collections.shuffle(cards2);
 		}
 		if (event.getSource() == b1) {
@@ -280,5 +289,4 @@ public class Main extends Application implements EventHandler<ActionEvent> {
 			this.numfill = numfill;
 		}
 	}
-
 }
