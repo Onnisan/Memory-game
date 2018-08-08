@@ -1,3 +1,3 @@
 # Memory-game
 
-An integer comparison based game.
+Both integer or photo comparison based game.
