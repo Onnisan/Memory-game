@@ -179,6 +179,14 @@ public class Main2 extends Application implements EventHandler<ActionEvent> {
 			b6.setGraphic(new ImageView("file:0.png"));
 			b7.setGraphic(new ImageView("file:0.png"));
 			b8.setGraphic(new ImageView("file:0.png"));
+			b9.setGraphic(new ImageView("file:0.png"));
+			b10.setGraphic(new ImageView("file:0.png"));
+			b11.setGraphic(new ImageView("file:0.png"));
+			b12.setGraphic(new ImageView("file:0.png"));
+			b13.setGraphic(new ImageView("file:0.png"));
+			b14.setGraphic(new ImageView("file:0.png"));
+			b15.setGraphic(new ImageView("file:0.png"));
+			b16.setGraphic(new ImageView("file:0.png"));
 			Collections.shuffle(cards2);
 		}
 		if (event.getSource() == b1) {
